@@ -1,0 +1,22 @@
+.list {
+  display: flex;
+  margin-bottom: 50px;
+}
+
+.button {
+  padding: 6px 16px;
+  margin-right: 14px;
+
+  font-size: 14px;
+  color: #ddd;
+
+  cursor: pointer;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color: #404040;
+}
+
+.button:hover {
+  color: chocolate;
+  border: 1px solid chocolate;
+}
