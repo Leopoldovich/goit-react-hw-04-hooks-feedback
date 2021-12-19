@@ -13,10 +13,10 @@
   cursor: pointer;
   border: 1px solid #ddd;
   border-radius: 4px;
-  background-color: #404040;
+  background-color: #0e0d0d;
 }
 
 .button:hover {
-  color: chocolate;
-  border: 1px solid chocolate;
+  color: rgb(51, 210, 30);
+  border: 1px solid rgb(51, 210, 30);
 }
